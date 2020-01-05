@@ -1,7 +1,10 @@
 You should make the description of your talk as compelling and exciting as possible. Remember, you're selling both the organizers of the events to select your talk, as well as trying to convince attendees your talk is the one they should see. 
 
+
+### Have you ever asked yourself how a framework works?
+
+
 ```
-Have you ever asked yourself how a framework works?
  
 var task = 
   { 
@@ -14,3 +17,6 @@ var task =
   
   
 ```
+
+- Going through tutorials, blogs and books on expanding your JavaScript fundamental knowledge? Build a framework instead.
+- 
